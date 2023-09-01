@@ -1,4 +1,4 @@
-handef main():
+def main():
    value = 17
    changeValue()
    print("the value is", value )
